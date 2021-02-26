@@ -1,0 +1,16 @@
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.csprojAssemblyReference.cache
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.AssemblyInfoInputs.cache
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.AssemblyInfo.cs
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.csproj.CoreCompileInputs.cache
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.exe
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.deps.json
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.runtimeconfig.json
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.runtimeconfig.dev.json
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.dll
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ref\ObservablePattern.dll
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\bin\Debug\net5.0\ObservablePattern.pdb
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.dll
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ref\ObservablePattern.dll
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.pdb
+D:\VsProject\NetCoreDesignPattern\ObservablePattern\obj\Debug\net5.0\ObservablePattern.genruntimeconfig.cache
